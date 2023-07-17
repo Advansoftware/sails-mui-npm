@@ -9,6 +9,9 @@ const name = readline.question('Digite o nome do projeto:\n-> '.green).trim();
 
 const repoLink = 'git@github.com:Advansoftware/SailsMui.git';
 const repoName = repoLink.concat(' '+ name);
+if(name===''){
+  throw 'Nome do projeto obrigatorio!';
+}
 
 execSync(`git clone ${repoName}`, { stdio: 'inherit' });
 
