@@ -1,5 +1,5 @@
 # Sails Front
-This template components with sailsjs aplication and beercss framework used material you Design
+This template sailsjs and beercss framework using material you components
 # Sails
 
 a [Sails v1](https://sailsjs.com) application
@@ -23,5 +23,6 @@ to create and run a project use in terminal
 
 `npx sails-front`
 
-and press enter, now you define a name of the project (name is required).
+and press enter.
+define your project name (project ame is required).
 
