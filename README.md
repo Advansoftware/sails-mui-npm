@@ -1,4 +1,5 @@
-# This template components with sailsjs aplication and beercss framework used material you Design
+# Sails Front
+This template components with sailsjs aplication and beercss framework used material you Design
 # Sails
 
 a [Sails v1](https://sailsjs.com) application
