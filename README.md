@@ -13,15 +13,15 @@ a [Beercss v3](https://www.beercss.com/) framework
   
 ### Install
 
-Run install global aplication sails-front using npm in terminal
+Install global aplication sails-front using npm in terminal
 
 `npm i -g sails-front`
 
 ### Running 
 
-to create a project use terminal
+to create a project use
 
-run `npx sails-front`
+`npx sails-front`
 
 and press enter.
 now you have define your project name (project name is required).
