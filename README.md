@@ -2,6 +2,8 @@
 
 a [Sails v1](https://sailsjs.com) application
 
+# Beercss
+a [Beercss v3](https://www.beercss.com/) framework
 
 ### Links
 
