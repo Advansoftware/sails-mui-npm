@@ -21,7 +21,7 @@ Install global aplication sails-front using npm in terminal
 
 to create a project use
 
-`npx sails-front`
+`sails-front`
 
 and press enter.
 now you have define your project name (project name is required).
